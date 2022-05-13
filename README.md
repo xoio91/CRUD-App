@@ -1,1 +1,1 @@
-# CRUD-App
+# This is a sample of code for the Lyft SWE Apprenticeship application. This program is not entirely my own, but I adapted it from a Youtube tutorial on how to write a CRUD application. The purpose of this program is to have a script for Google Sheets in which you can add, delete, and edit customer information.
